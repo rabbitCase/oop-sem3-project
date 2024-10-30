@@ -8,6 +8,7 @@ This project implements simple but fundamental concepts of JAVA like:
 4) Exception Handling
 5) Method Overriding 
 6) Interfaces etc
+   
 The program is menu-driven and user friendly, providing updates and confirmations based on the changes the user makes.
 
 NOTE: This project currently limited to the CLI and may be integrated with JavaFX/Swing in the future.
