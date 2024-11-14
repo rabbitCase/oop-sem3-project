@@ -1,3 +1,4 @@
+<h2>Object Oriented Programming End Semester Project</h2>
 This is a very basic Attendance tracker for multiple sections of a college. The program tracks attendance data for 1 year.
 <p>Allows teachers to view and mark the attendance for one or multiple sections.</p>
 <p>Allows student to view their overall attendance for the year (can be modified based on the course credits/no of lecture hours/college timetable).</p>
